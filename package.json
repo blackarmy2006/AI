@@ -1,0 +1,12 @@
+{
+  "name": "legalassistant",
+  "version": "1.0.0",
+  "description": "Legal Assistant is an innovative application that leverages RAG (Retrieval-Augmented Generation) technology to deliver personalized legal advice and guidance based on Moroccan law.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
